@@ -8,7 +8,7 @@
   - LLusco Blanco Fernando Rene
   - Rios Nuñez David Samuel
   - Rivera Quisberth David Hugo
-  - Terceros Beltran Oscar Alvaro
+  - Terceros Beltrán Oscar Alvaro
   - Torrez Azuga Marcelo
 
 - **Sistema Elegido:** Airbnb
