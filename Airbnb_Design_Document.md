@@ -5,10 +5,10 @@
 - **Curso:** Diseño e Implementación de Sistemas
 - **Entregable:** Parte 1 de 3
 - **Equipo:**
-  - LLusco Blanco Fernando Rene
+  - Llusco Blanco Fernando Rene
   - Rios Nuñez David Samuel
   - Rivera Quisberth David Hugo
-  - Terceros Beltran Oscar Alvaro
+  - Terceros Beltrán Oscar Alvaro
   - Torrez Azuga Marcelo
 
 - **Sistema Elegido:** Airbnb
@@ -72,9 +72,9 @@ el alcance son:
    personas en la aplicación, para obtener una lista de opciones disponibles con
    su precio exacto, y poder confirmar la reserva del alojamiento seleccionado
    con el fin de asegurar su estancia temporal de manera rápida y segura.
-2. **Publicación y Gestión de Inventario (Anfitriones):** Los anfitriones deben
-   poder publicar sus propiedades especificando fotos, descripción, precio y
-   ubicación en la plataforma, para ofrecer su alojamiento en el catálogo de
+2. **Publicación y Gestión de Alojamientos (Anfitriones):** Los anfitriones
+   deben poder publicar sus propiedades especificando fotos, descripción, precio
+   y ubicación en la plataforma, para ofrecer su alojamiento en el catálogo de
    búsqueda de los huéspedes, y poder gestionar la disponibilidad de su
    calendario con el fin de monetizar su espacio de forma confiable e
    ininterrumpida.
@@ -452,8 +452,8 @@ flowchart TD
 
 Esta plataforma financiera procesa activos y transacciones de dinero; por lo
 cual, aplicamos un perímetro robusto. Delegaremos la gestión identitaria pura a
-un **Identity Provider (IdP)** externo certificado (como **Auth0** o
-**Keycloak**) instaurando una arquitectura Single Sign-On (SSO).
+un **Identity Provider (IdP)** externo certificado (**Auth0**) instaurando una
+arquitectura Single Sign-On (SSO).
 
 ### 6.1 Flujo de Autenticación (AuthN): OIDC con Authorization Code Flow
 
